@@ -1,19 +1,17 @@
-# Hi there, I'm Claudio Litz! 👋
-
 <p align="center">
-  <img src="./pixelart_banner.png" alt="Pixel Art Banner" width="100%">
+  <img src="./claudio_banner_v2.png" alt="Claudio Litz - Full Stack Developer | Cybersystems Student | IoT & Electronics" width="100%">
 </p>
 
-I'm a 17-year-old student developer passionate about crafting innovative solutions and exploring the vast world of technology. From robust backend systems to engaging web interfaces and embedded electronics, I enjoy bringing ideas to life through code.
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Claudio-Litz&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Claudio Litz GitHub Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Litz&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  </a>
+</p>
 
-## 🚀 What I Do
-
-- **Software Development**: Building applications with Python, Java, TypeScript, and JavaScript.
-- **Web Development**: Creating dynamic and responsive web experiences.
-- **Data & Analytics**: Transforming data into actionable insights with dashboards and financial tools.
-- **Embedded Systems**: Delving into Arduino and electronics for hardware-software integration.
-
-## 🛠️ My Toolkit
+## 🚀 Technologies & Ecosystem
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -27,21 +25,37 @@ I'm a 17-year-old student developer passionate about crafting innovative solutio
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
 </p>
 
-## 💡 Featured Projects
+### 🔗 Full Stack & IoT Connectivity
+I specialize in building end-to-end systems where everything is interconnected. My passion lies in creating the bridge between **Front-end interfaces**, **Back-end logic**, **Database persistence**, and **Hardware sensors**.
 
-- **[my-portfolio-system](https://github.com/Claudio-Litz/my-portfolio-system)**: A personal portfolio system built with TypeScript.
-- **[MonitoringDashboard](https://github.com/Claudio-Litz/MonitoringDashboard)**: A C++ project for monitoring purposes.
-- **[financeiro-dash](https://github.com/Claudio-Litz/financeiro-dash)**: A Python-based financial dashboard.
-- **[Crypto-Tracker](https://github.com/Claudio-Litz/Crypto-Tracker)**: Track cryptocurrencies with this TypeScript application.
-- **[client-gallery-generator](https://github.com/Claudio-Litz/client-gallery-generator)**: A web app for photographers to create private web galleries for clients.
-- **[Fiado](https://github.com/Claudio-Litz/Fiado)**: A simple and efficient system for local bakeries to manage customer debts.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,python,arduino,cpp,git,linux" alt="Tech Stack Icons" />
+</p>
 
-## 🌐 Let's Connect
+## 📈 GitHub Activity
 
-- **LinkedIn**: [Claudio Litz](https://www.linkedin.com/in/claudio-litz-65201a357/)
-- **Instagram**: [@calius__](https://www.instagram.com/calius__)
+<p align="center">
+  <a href="https://github.com/Claudio-Litz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Claudio-Litz&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/claudio-litz-65201a357/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/calius__">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Claudio-Litz}/count.svg" alt="Profile views">
+</p>
 
 <p align="center">
   Made with ❤️ by Manus AI
