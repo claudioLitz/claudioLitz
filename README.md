@@ -19,7 +19,7 @@
 
 ---
 
-## // CURRENTLY
+## CURRENTLY
 
 <div align="center">
   <table width="100%">
@@ -44,7 +44,7 @@
 
 ---
 
-## // TECH_STACK_MATRIX
+## TECH_STACK_MATRIX
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,ts,cpp,mysql,arduino,react,nodejs,docker,git,linux,vscode&theme=dark" />
@@ -60,8 +60,3 @@
 
 <br>
 
----
-
-<div align="center">
-  Made with ❤️ by Manus AI
-</div>
