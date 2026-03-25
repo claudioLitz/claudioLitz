@@ -6,10 +6,10 @@
 
   <br><br>
 
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/Claudio-litz" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI@email.com">
+  <a href="mailto:claudioglitz1@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Claudio-Litz" target="_blank">
@@ -22,7 +22,7 @@
 
 ---
 
-## 💻 // STACK_TECNOLÓGICO
+## 💻 STACK_TECNOLÓGICO
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,node,python,golang,docker,kubernetes,aws,postgres,git,linux&theme=dark" alt="Minhas Tecnologias" />
@@ -32,7 +32,7 @@
 
 ---
 
-## 📈 // ESTATÍSTICAS_DO_SISTEMA
+## 📈 ESTATÍSTICAS_DO_SISTEMA
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Claudio-Litz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" height="190"/>
@@ -43,7 +43,7 @@
 
 ---
 
-## ⚡ // FOCO_ATUAL
+## ⚡ FOCO_ATUAL
 
 > *"Sempre buscando o próximo nível de eficiência e qualidade no código."*
 
