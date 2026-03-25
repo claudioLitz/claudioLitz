@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="./claudio_banner_v2.png" alt="Claudio Litz - Full Stack Developer | Cybersystems Student | IoT & Electronics" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=250&section=header&text=CLAUDIO%20LITZ&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20|%20CYBERSYSTEMS%20STUDENT&descAlignY=55&descSize=20" alt="Animated Header" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=94a3b8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersystems+Student;IoT+%26+Electronics;Building+Connected+Systems;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=94a3b8&center=true&vCenter=true&width=600&lines=Coding+Solutions;Always+Learning;Exploring+Tech+Stack;Driven+by+Systems;IoT+%26+Electronics;" alt="Typing SVG" />
 
   <br><br>
 
@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/calius__" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-0f172a?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <!-- Adicione seu link de portfólio aqui se tiver um! -->
+  <!-- Se você tiver um portfólio, adicione o link aqui! -->
   <!-- <a href="YOUR_PORTFOLIO_LINK" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-0f172a?style=flat-square&logo=react&logoColor=61dafb" alt="Explore my main portfolio" />
   </a> -->
@@ -29,21 +29,16 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=Claudio-Litz&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Claudio Litz GitHub Stats" height="190"/>
-        </a>
+        <img src="https://github-readme-stats.vercel.app/api?username=Claudio-Litz&show_icons=true&theme=nord&bg_color=111827&hide_border=true&title_color=f8fafc&text_color=94a3b8&include_all_commits=true&count_private=true&locale=en" alt="GitHub Analytics" height="190"/>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Litz&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="190"/>
-        </a>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Litz&layout=compact&theme=nord&bg_color=111827&hide_border=true&title_color=f8fafc&text_color=94a3b8&langs_count=6&locale=en" alt="Primary Programming Languages" height="190"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <a href="https://github.com/Claudio-Litz">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Claudio-Litz&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-        </a>
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Claudio-Litz&theme=nord&hide_border=true&background=111827&stroke=f8fafc&ring=f8fafc&fire=f8fafc&currStreakLabel=f8fafc" alt="GitHub Streak Stats" />
       </td>
     </tr>
   </table>
@@ -56,18 +51,9 @@
 ## // TECH_STACK_MATRIX
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,html,css,mysql,arduino,react,nodejs,express,docker,git,github,linux,vercel&theme=dark" alt="Core technologies" />
-</div>
-
-<br>
-
----
-
-## // FULL_STACK_CONNECTIVITY
-
-<div align="center">
-  <p>My passion lies in building **end-to-end systems**, seamlessly connecting **Front-end interfaces**, robust **Back-end logic**, persistent **Database solutions**, and interactive **Hardware sensors**.</p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,aws,gcp,azure&theme=dark" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,html,css,mysql,arduino,react,nodejs,express,docker,git,github,linux&theme=dark" alt="Core technologies" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,aws,gcp,azure,vercel&theme=dark" alt="Development and Cloud Tools" />
 </div>
 
 <br>
@@ -75,7 +61,7 @@
 ---
 
 <div align="center">
-  <p><em>Explore my pinned projects below for more details on my work.</em></p>
+  <p><em>Focusing on building functional, adaptative systems. Check out my pinned projects below for more details.</em></p>
   <img src="https://profile-counter.glitch.me/{Claudio-Litz}/count.svg" alt="Profile views">
 </div>
 
