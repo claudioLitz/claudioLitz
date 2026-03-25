@@ -25,16 +25,16 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Claudio-Litz&show_icons=true&theme=nord&bg_color=111827&hide_border=true&locale=en" height="190"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Claudio-Litz&show_icons=true&theme=dark&hide_border=true" height="190"/>
       </td>
       <td width="50%" align="center">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Litz&layout=compact&theme=nord&bg_color=111827&hide_border=true&langs_count=6&locale=en" height="190"/>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Litz&layout=compact&theme=dark&hide_border=true&langs_count=6" height="190"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Claudio-Litz&theme=nord&hide_border=true&background=111827&stroke=f8fafc&ring=f8fafc&fire=f8fafc&currStreakLabel=f8fafc" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Claudio-Litz&theme=dark&hide_border=true" />
       </td>
     </tr>
   </table>
@@ -47,7 +47,7 @@
 ## // TECH_STACK_MATRIX
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,cpp,mysql,arduino,react,nodejs,docker,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,cpp,mysql,arduino,react,nodejs,docker,git,linux,vscode&theme=dark" />
 </div>
 
 <br>
