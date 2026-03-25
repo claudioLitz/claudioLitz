@@ -6,10 +6,10 @@
 
   <br><br>
 
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/claudio-litz/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0f172a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI@email.com">
+  <a href="mailto:claudiolitz@outlook.com">
     <img src="https://img.shields.io/badge/EMAIL-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="YOUR_PORTFOLIO_LINK" target="_blank">
@@ -22,16 +22,26 @@
 
 ---
 
+## // MY_FOCUS
+
+Here are a few of my superficial goals and interests:
+
+* **Deepening proficiency in `backend` and `systems programming` with `Python`, `TypeScript`, and `C++`.**
+* **Exploring new `architectural patterns` and `cloud technologies` (containerization, CI/CD).**
+* **Building robust, scalable `tools/systems` that solve real-world problems effectively.**
+
+---
+
 ## // CURRENTLY
 
 <div align="center">
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Claudio-Litz&show_icons=true&theme=nord&bg_color=111827&hide_border=true&title_color=f8fafc&text_color=94a3b8&include_all_commits=true&count_private=true&locale=en" alt="GitHub Analytics" height="190"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=claudio-litz&show_icons=true&theme=nord&bg_color=111827&hide_border=true&title_color=f8fafc&text_color=94a3b8&include_all_commits=true&count_private=true&locale=en" alt="GitHub Analytics" height="190"/>
       </td>
       <td width="50%" align="center">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Litz&layout=compact&theme=nord&bg_color=111827&hide_border=true&title_color=f8fafc&text_color=94a3b8&langs_count=6&locale=en" alt="Primary Programming Languages" height="190"/>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-litz&layout=compact&theme=nord&bg_color=111827&hide_border=true&title_color=f8fafc&text_color=94a3b8&langs_count=6&locale=en" alt="Primary Programming Languages" height="190"/>
       </td>
     </tr>
   </table>
@@ -53,5 +63,5 @@
 
 ---
 <div align="center">
-  <p><em>Focusing on building functional, adaptative systems. Check out my pinned projects below for more details.</em></p>
+  <p><em>Check out my pinned projects below for more details. Focusing on building robust and adaptative systems.</em></p>
 </div>
