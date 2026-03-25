@@ -29,10 +29,10 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Claudio-Litz&show_icons=true&theme=nord&bg_color=111827&hide_border=true&title_color=f8fafc&text_color=94a3b8&include_all_commits=true&count_private=true&locale=en" alt="GitHub Analytics" height="190"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Claudio-Litz&show_icons=true&theme=nord&bg_color=111827&hide_border=true&locale=en" alt="GitHub Analytics" height="190"/>
       </td>
       <td width="50%" align="center">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Litz&layout=compact&theme=nord&bg_color=111827&hide_border=true&title_color=f8fafc&text_color=94a3b8&langs_count=6&locale=en" alt="Primary Programming Languages" height="190"/>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Litz&layout=compact&theme=nord&bg_color=111827&hide_border=true&langs_count=6&locale=en" alt="Primary Programming Languages" height="190"/>
       </td>
     </tr>
     <tr>
@@ -51,9 +51,7 @@
 ## // TECH_STACK_MATRIX
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,html,css,mysql,arduino,react,nodejs,express,docker,git,github,linux&theme=dark" alt="Core technologies" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,aws,gcp,azure,vercel&theme=dark" alt="Development and Cloud Tools" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,cpp,mysql,arduino,react,nodejs,docker,git,linux,vscode" alt="Core technologies" />
 </div>
 
 <br>
@@ -62,7 +60,6 @@
 
 <div align="center">
   <p><em>Focusing on building functional, adaptative systems. Check out my pinned projects below for more details.</em></p>
-  <img src="https://profile-counter.glitch.me/{Claudio-Litz}/count.svg" alt="Profile views">
 </div>
 
 <br>
