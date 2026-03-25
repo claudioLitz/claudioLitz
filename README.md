@@ -1,67 +1,48 @@
-<div align="center">
+# Hi there, I'm Claudio Litz! 👋
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=250&section=header&text=CLAUDIO%20LITZ&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=SYSTEMS%20DEVELOPER&descAlignY=55&descSize=20" alt="Pixel Art Coding Header" width="100%" />
+<p align="center">
+  <img src="./pixelart_banner.png" alt="Pixel Art Banner" width="100%">
+</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=94a3b8&center=true&vCenter=true&width=600&lines=Coding+Solutions;Always+Learning;Exploring+Tech+Stack;Driven+by+Systems;" alt="Typing SVG" />
+I'm a 17-year-old student developer passionate about crafting innovative solutions and exploring the vast world of technology. From robust backend systems to engaging web interfaces and embedded electronics, I enjoy bringing ideas to life through code.
 
-  <br><br>
+## 🚀 What I Do
 
-  <a href="https://www.linkedin.com/in/claudio-litz/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0f172a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:claudiolitz@outlook.com">
-    <img src="https://img.shields.io/badge/EMAIL-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0f172a?style=flat-square&logo=react&logoColor=61dafb" alt="Explore my main portfolio" />
-  </a>
+- **Software Development**: Building applications with Python, Java, TypeScript, and JavaScript.
+- **Web Development**: Creating dynamic and responsive web experiences.
+- **Data & Analytics**: Transforming data into actionable insights with dashboards and financial tools.
+- **Embedded Systems**: Delving into Arduino and electronics for hardware-software integration.
 
-</div>
+## 🛠️ My Toolkit
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+</p>
 
----
+## 💡 Featured Projects
 
-## // MY_FOCUS
+- **[my-portfolio-system](https://github.com/Claudio-Litz/my-portfolio-system)**: A personal portfolio system built with TypeScript.
+- **[MonitoringDashboard](https://github.com/Claudio-Litz/MonitoringDashboard)**: A C++ project for monitoring purposes.
+- **[financeiro-dash](https://github.com/Claudio-Litz/financeiro-dash)**: A Python-based financial dashboard.
+- **[Crypto-Tracker](https://github.com/Claudio-Litz/Crypto-Tracker)**: Track cryptocurrencies with this TypeScript application.
+- **[client-gallery-generator](https://github.com/Claudio-Litz/client-gallery-generator)**: A web app for photographers to create private web galleries for clients.
+- **[Fiado](https://github.com/Claudio-Litz/Fiado)**: A simple and efficient system for local bakeries to manage customer debts.
 
-Here are a few of my superficial goals and interests:
+## 🌐 Let's Connect
 
-* **Deepening proficiency in `backend` and `systems programming` with `Python`, `TypeScript`, and `C++`.**
-* **Exploring new `architectural patterns` and `cloud technologies` (containerization, CI/CD).**
-* **Building robust, scalable `tools/systems` that solve real-world problems effectively.**
-
----
-
-## // CURRENTLY
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=claudio-litz&show_icons=true&theme=nord&bg_color=111827&hide_border=true&title_color=f8fafc&text_color=94a3b8&include_all_commits=true&count_private=true&locale=en" alt="GitHub Analytics" height="190"/>
-      </td>
-      <td width="50%" align="center">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-litz&layout=compact&theme=nord&bg_color=111827&hide_border=true&title_color=f8fafc&text_color=94a3b8&langs_count=6&locale=en" alt="Primary Programming Languages" height="190"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
+- **LinkedIn**: [Claudio Litz](https://www.linkedin.com/in/claudio-litz-65201a357/)
+- **Instagram**: [@calius__](https://www.instagram.com/calius__)
 
 ---
 
-## // TECH_STACK_MATRIX
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,supabase,postgres,docker&theme=dark" alt="Core technologies" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,git,github,vercel,linux&theme=dark" alt="Secondary technologies" />
-</div>
-
-<br>
-
----
-<div align="center">
-  <p><em>Check out my pinned projects below for more details. Focusing on building robust and adaptative systems.</em></p>
-</div>
+<p align="center">
+  Made with ❤️ by Manus AI
+</p>
